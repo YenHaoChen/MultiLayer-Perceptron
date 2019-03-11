@@ -12,5 +12,5 @@ CPU:	Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz <br />
 memory:	32G DRAM
 
 #### Todo
-dropout
+dropout <br />
 sigmoid activation function to avoid overflow
