@@ -1,6 +1,6 @@
 ### MultiLayer Perceptron (MLP)
 A multilayer perceptrion implementation in python numpy library. (The import of tensorflow is only for the MNIST) <br />
-A 96.18% accuracy on MNIST test set is achieved in 11 minutes.
+A 95%+ accuracy on MNIST test set was achieved within minutes.
 
 #### Features
 L2 regularization <br />
@@ -13,3 +13,4 @@ memory:	32G DRAM
 
 #### Todo
 dropout
+sigmoid activation function to avoid overflow
